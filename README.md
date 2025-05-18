@@ -8,7 +8,7 @@
    
 2. use this json to install it:
    
-         ```"plot_chart": {
+         "plot_chart": {
             "command": "uv",
             "args": [
                 "--directory",
@@ -16,7 +16,7 @@
                 "run",
                 "server.py"
             ]
-        }```
+        }
 
 
 > I put this JSON in Cursor IDE
